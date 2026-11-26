@@ -31,6 +31,15 @@ I use this portfolio to document practical labs, architecture patterns, automati
 
 ## Portfolio
 
+- [Portfolio roadmap and repository plan](portfolio/README.md)
+- [Case-study template](portfolio/CASE-STUDY-TEMPLATE.md)
+- [Security and publishing checklist](portfolio/SECURITY-AND-PUBLISHING.md)
+- [Infrastructure Architecture starter](portfolio/starter-repositories/Infrastructure-Architecture/README.md)
+- [Datacenter Transformation starter](portfolio/starter-repositories/Datacenter-Transformation/README.md)
+- [Azure Cloud Labs starter](portfolio/starter-repositories/Azure-Cloud-Labs/README.md)
+- [Network Security Labs starter](portfolio/starter-repositories/Network-Security-Labs/README.md)
+- [OT Cybersecurity Labs starter](portfolio/starter-repositories/OT-Cybersecurity-Labs/README.md)
+
 | Area | What you will find |
 |---|---|
 | [Project experience](https://github.com/Kunalvishwakarma/Profile/wiki/KEY-PROJECT-EXPERIENCE) | Sanitized overview of selected project experience |
