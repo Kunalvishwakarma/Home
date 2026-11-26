@@ -34,11 +34,11 @@ I use this portfolio to document practical labs, architecture patterns, automati
 - [Portfolio roadmap and repository plan](portfolio/README.md)
 - [Case-study template](portfolio/CASE-STUDY-TEMPLATE.md)
 - [Security and publishing checklist](portfolio/SECURITY-AND-PUBLISHING.md)
-- [Infrastructure Architecture starter](portfolio/starter-repositories/Infrastructure-Architecture/README.md)
-- [Datacenter Transformation starter](portfolio/starter-repositories/Datacenter-Transformation/README.md)
-- [Azure Cloud Labs starter](portfolio/starter-repositories/Azure-Cloud-Labs/README.md)
-- [Network Security Labs starter](portfolio/starter-repositories/Network-Security-Labs/README.md)
-- [OT Cybersecurity Labs starter](portfolio/starter-repositories/OT-Cybersecurity-Labs/README.md)
+- [Infrastructure Architecture](https://github.com/Kunalvishwakarma/Infrastructure-Architecture)
+- [Datacenter Transformation](https://github.com/Kunalvishwakarma/Datacenter-Transformation)
+- [Azure Cloud Labs](https://github.com/Kunalvishwakarma/Azure-Cloud-Labs)
+- [Network Security Labs](https://github.com/Kunalvishwakarma/Network-Security-Labs)
+- [OT Cybersecurity Labs](https://github.com/Kunalvishwakarma/OT-Cybersecurity-Labs)
 
 | Area | What you will find |
 |---|---|
