@@ -2,30 +2,19 @@
 
 **Positioning:** All-round IT Infrastructure Professional
 
-This portfolio is designed to demonstrate breadth across enterprise infrastructure, datacenter transformation, cloud, networking, cybersecurity and technical delivery.
+This portfolio demonstrates enterprise infrastructure, datacenter transformation, Azure, networking, security and OT cybersecurity learning through standalone repositories.
 
-## Published standalone repositories
+## Published repositories and artefacts
 
-All five repositories below have now been created as public repositories and populated with an initial README and technical roadmap.
-
-| Repository | Purpose | Initial public content |
+| Repository | Focus | Published examples |
 |---|---|---|
-| [`Infrastructure-Architecture`](https://github.com/Kunalvishwakarma/Infrastructure-Architecture) | Enterprise infrastructure design | Reference architectures, design principles, resilience and lifecycle checklists |
-| [`Datacenter-Transformation`](https://github.com/Kunalvishwakarma/Datacenter-Transformation) | Migration and decommissioning | Sanitized migration playbook, discovery checklist, dependency and cutover templates |
-| [`Azure-Cloud-Labs`](https://github.com/Kunalvishwakarma/Azure-Cloud-Labs) | Azure and hybrid cloud | Lab diagrams, IaC samples where safe, governance and security notes |
-| [`Network-Security-Labs`](https://github.com/Kunalvishwakarma/Network-Security-Labs) | Enterprise networking and security | Synthetic network topologies, DNS, routing, segmentation and troubleshooting labs |
-| [`OT-Cybersecurity-Labs`](https://github.com/Kunalvishwakarma/OT-Cybersecurity-Labs) | Industrial cybersecurity learning | Purdue model examples, IEC 62443 learning notes, zones/conduits and risk-assessment exercises |
-| `Infrastructure-Automation` | Practical automation | Python/PowerShell scripts, tests, sample input data and usage documentation |
+| [Infrastructure Architecture](https://github.com/Kunalvishwakarma/Infrastructure-Architecture) | Enterprise infrastructure design | Hybrid reference architecture, ADR template, resilience checklist, operational readiness |
+| [Datacenter Transformation](https://github.com/Kunalvishwakarma/Datacenter-Transformation) | Migration and decommissioning | Synthetic migration case study, discovery inventory, dependency mapping, wave tracker, cutover runbook, risk register |
+| [Azure Cloud Labs](https://github.com/Kunalvishwakarma/Azure-Cloud-Labs) | Azure and hybrid cloud | Governance, network segmentation, monitoring, identity/RBAC labs and Bicep network starter |
+| [Network Security Labs](https://github.com/Kunalvishwakarma/Network-Security-Labs) | Enterprise networking and security | Segmentation design, DNS troubleshooting, Wireshark workflow, firewall review template |
+| [OT Cybersecurity Labs](https://github.com/Kunalvishwakarma/OT-Cybersecurity-Labs) | Industrial cybersecurity learning | Synthetic zones-and-conduits case study, OT risk register, remote-access and incident-response notes, IEC 62443 concept map |
 
-## Recommended publication sequence
-
-1. Publish a strong, sanitized infrastructure architecture reference project.
-2. Add a datacenter migration playbook based on generalized experience.
-3. Add an Azure hybrid-cloud lab with synthetic resources and diagrams.
-4. Add network security and troubleshooting labs.
-5. Add OT cybersecurity learning artefacts and automation examples.
-
-## Quality bar for every repository
+## Quality bar for future additions
 
 - Clear problem statement, scope, assumptions and intended audience.
 - Architecture diagram and explanation of key decisions.
@@ -40,4 +29,6 @@ All five repositories below have now been created as public repositories and pop
 - Professional website: https://www.kunalv.me
 - Project experience wiki: https://github.com/Kunalvishwakarma/Profile/wiki/KEY-PROJECT-EXPERIENCE
 
-The five repositories are public and have initial documentation. The next phase is to add worked examples, diagrams, lab instructions and validation evidence.
+## Next development phase
+
+The initial documentation and template layer is in place. The next quality step is to execute selected labs in isolated test environments, add sanitized screenshots or generated evidence, validate scripts and templates, and document actual results. Do not label a lab as deployed or tested until it has been run and verified.
