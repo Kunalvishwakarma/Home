@@ -51,6 +51,16 @@ I use this portfolio to document practical labs, architecture patterns, automati
 
 Selected credentials reported in my professional profile include Microsoft Azure Administrator Associate, Microsoft Azure Security Engineer Associate, PRINCE2 Agile, ITIL Foundation, Cisco CCNA Voice, BICSI Datacenter Design & Infrastructure, Aviatrix Multi-Cloud and Alibaba Cloud certifications. Please refer to the relevant credential issuer for verification.
 
+## Featured technical artefacts
+
+- [Synthetic datacenter migration case study](https://github.com/Kunalvishwakarma/Datacenter-Transformation/blob/main/case-study/SYNTHETIC-HYBRID-DATACENTER-MIGRATION.md)
+- [Hybrid infrastructure reference architecture](https://github.com/Kunalvishwakarma/Infrastructure-Architecture/blob/main/docs/HYBRID-REFERENCE-ARCHITECTURE.md)
+- [Azure Bicep network starter](https://github.com/Kunalvishwakarma/Azure-Cloud-Labs/blob/main/bicep/network/main.bicep)
+- [Network segmentation lab](https://github.com/Kunalvishwakarma/Network-Security-Labs/tree/main/labs/01-segmentation-design)
+- [OT zones-and-conduits case study](https://github.com/Kunalvishwakarma/OT-Cybersecurity-Labs/blob/main/case-studies/SYNTHETIC-ZONES-AND-CONDUITS.md)
+
+These artefacts are independent portfolio material. Labs and templates should not be described as production deployments unless separately executed and validated.
+
 ## How this portfolio is organized
 
 New work will be published as focused, independently understandable repositories and case studies. Each technical project should include:
