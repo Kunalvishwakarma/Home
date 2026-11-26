@@ -4,17 +4,17 @@
 
 This portfolio is designed to demonstrate breadth across enterprise infrastructure, datacenter transformation, cloud, networking, cybersecurity and technical delivery.
 
-## Proposed standalone repositories
+## Published standalone repositories
 
-These are planned repository names. Create each as a separate public repository when the repository-creation capability is available.
+All five repositories below have now been created as public repositories and populated with an initial README and technical roadmap.
 
 | Repository | Purpose | Initial public content |
 |---|---|---|
-| `Infrastructure-Architecture` | Enterprise infrastructure design | Reference architectures, design principles, resilience and lifecycle checklists |
-| `Datacenter-Transformation` | Migration and decommissioning | Sanitized migration playbook, discovery checklist, dependency and cutover templates |
-| `Azure-Cloud-Labs` | Azure and hybrid cloud | Lab diagrams, IaC samples where safe, governance and security notes |
-| `Network-Security-Labs` | Enterprise networking and security | Synthetic network topologies, DNS, routing, segmentation and troubleshooting labs |
-| `OT-Cybersecurity-Labs` | Industrial cybersecurity learning | Purdue model examples, IEC 62443 learning notes, zones/conduits and risk-assessment exercises |
+| [`Infrastructure-Architecture`](https://github.com/Kunalvishwakarma/Infrastructure-Architecture) | Enterprise infrastructure design | Reference architectures, design principles, resilience and lifecycle checklists |
+| [`Datacenter-Transformation`](https://github.com/Kunalvishwakarma/Datacenter-Transformation) | Migration and decommissioning | Sanitized migration playbook, discovery checklist, dependency and cutover templates |
+| [`Azure-Cloud-Labs`](https://github.com/Kunalvishwakarma/Azure-Cloud-Labs) | Azure and hybrid cloud | Lab diagrams, IaC samples where safe, governance and security notes |
+| [`Network-Security-Labs`](https://github.com/Kunalvishwakarma/Network-Security-Labs) | Enterprise networking and security | Synthetic network topologies, DNS, routing, segmentation and troubleshooting labs |
+| [`OT-Cybersecurity-Labs`](https://github.com/Kunalvishwakarma/OT-Cybersecurity-Labs) | Industrial cybersecurity learning | Purdue model examples, IEC 62443 learning notes, zones/conduits and risk-assessment exercises |
 | `Infrastructure-Automation` | Practical automation | Python/PowerShell scripts, tests, sample input data and usage documentation |
 
 ## Recommended publication sequence
@@ -40,4 +40,4 @@ These are planned repository names. Create each as a separate public repository 
 - Professional website: https://www.kunalv.me
 - Project experience wiki: https://github.com/Kunalvishwakarma/Profile/wiki/KEY-PROJECT-EXPERIENCE
 
-The separate repository creation step remains pending; this roadmap does not represent those repositories as already created.
+The five repositories are public and have initial documentation. The next phase is to add worked examples, diagrams, lab instructions and validation evidence.
