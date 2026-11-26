@@ -1,82 +1,91 @@
-# Kunal Vishwakarma
-### All-round IT Infrastructure Professional | Infrastructure Architecture | Cloud & Datacenter Transformation | Network & Cybersecurity | Technical Project Delivery
+<div align="center">
 
-Oslo, Norway · [Portfolio](https://www.kunalv.me) · [LinkedIn](https://www.linkedin.com/in/kunalkv) · [GitHub](https://github.com/Kunalvishwakarma)
+<img src="https://raw.githubusercontent.com/Kunalvishwakarma/Home/main/assets/profile-banner.svg" alt="Kunal Vishwakarma — Infrastructure Architecture and Transformation" width="100%"/>
 
-I bring 20+ years of experience across enterprise infrastructure, networking, datacenter services, cloud transformation and technical project delivery. My work has included infrastructure modernization, on-premises and datacenter migrations, hybrid-cloud initiatives, network and security services, vendor coordination and cross-region delivery.
+### All-round IT Infrastructure Professional
+**Infrastructure Architecture · Datacenter Transformation · Azure & Hybrid Cloud · Networking · Cybersecurity · Technical Delivery**
 
-I use this portfolio to document practical labs, architecture patterns, automation examples and sanitized project case studies. It is a professional learning and experience portfolio—not a repository of employer or customer materials.
+<p>
+  <a href="https://www.kunalv.me"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/kunalkv"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
+  <a href="https://github.com/Kunalvishwakarma?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Repos-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Repositories"/></a>
+</p>
+
+<sub>Oslo, Norway · 20+ years across enterprise infrastructure and technology delivery</sub>
+
+</div>
 
 ---
 
-## Areas of focus
+## Explore the portfolio
 
-| Domain | Experience and topics |
+| Focus area | What you'll find |
 |---|---|
-| Infrastructure & architecture | Enterprise infrastructure, hybrid environments, platform lifecycle, resilience and operational readiness |
-| Datacenter transformation | Migration planning, consolidation, decommissioning, discovery, dependency mapping and transition |
-| Cloud | Microsoft Azure IaaS, governance, security, migration and hybrid connectivity |
-| Networking | LAN/WAN, routing and switching, VPN, DNS, load balancing, F5 and network services |
-| Security | Infrastructure security, segmentation, identity, endpoint protection, security governance and OT security concepts |
-| Project delivery | Technical project management, RAID, BCM/DR, stakeholder coordination, vendors, RFP and SoW |
-| Automation | Python and PowerShell learning, repeatable operational tasks and technical tooling |
+| 🏗️ **[Infrastructure Architecture](https://github.com/Kunalvishwakarma/Infrastructure-Architecture)** | Hybrid reference designs, architecture decisions, resilience and operational readiness |
+| 🖥️ **[Datacenter Transformation](https://github.com/Kunalvishwakarma/Datacenter-Transformation)** | Synthetic migration case study, discovery, dependency mapping, cutover and risk templates |
+| ☁️ **[Azure Cloud Labs](https://github.com/Kunalvishwakarma/Azure-Cloud-Labs)** | Governance, networking, monitoring, identity, backup/restore and Bicep starter |
+| 🌐 **[Network Security Labs](https://github.com/Kunalvishwakarma/Network-Security-Labs)** | Segmentation, DNS troubleshooting, Wireshark learning and firewall reviews |
+| 🏭 **[OT Cybersecurity Labs](https://github.com/Kunalvishwakarma/OT-Cybersecurity-Labs)** | IEC 62443 concepts, zones and conduits, OT risk and recovery guidance |
 
-## Selected experience highlights
+## What I bring
 
-- Delivered and supported datacenter migration and decommissioning initiatives across the United States, Norway and APAC.
-- Led infrastructure and network delivery across multi-region enterprise environments.
-- Contributed to offshore delivery-centre setup and operational transition.
-- Worked across Azure migration, hybrid infrastructure, network modernization, endpoint security and branch-office transformation.
-- Coordinated technical teams, suppliers and stakeholders through planning, implementation and transition.
+I work across enterprise infrastructure, networking, datacenter services, cloud transformation and technical project delivery. My experience includes infrastructure modernization, on-premises and datacenter migrations, hybrid-cloud initiatives, network and security services, vendor coordination and cross-region delivery.
 
-## Portfolio
+Selected delivery experience includes datacenter migration and decommissioning initiatives across the United States, Norway and APAC, alongside multi-region infrastructure and network delivery.
 
-- [Portfolio roadmap and repository plan](portfolio/README.md)
-- [Case-study template](portfolio/CASE-STUDY-TEMPLATE.md)
-- [Security and publishing checklist](portfolio/SECURITY-AND-PUBLISHING.md)
-- [Infrastructure Architecture](https://github.com/Kunalvishwakarma/Infrastructure-Architecture)
-- [Datacenter Transformation](https://github.com/Kunalvishwakarma/Datacenter-Transformation)
-- [Azure Cloud Labs](https://github.com/Kunalvishwakarma/Azure-Cloud-Labs)
-- [Network Security Labs](https://github.com/Kunalvishwakarma/Network-Security-Labs)
-- [OT Cybersecurity Labs](https://github.com/Kunalvishwakarma/OT-Cybersecurity-Labs)
+<details>
+<summary><strong>🧭 Explore my technical domains</strong></summary>
 
-| Area | What you will find |
-|---|---|
-| [Project experience](https://github.com/Kunalvishwakarma/Profile/wiki/KEY-PROJECT-EXPERIENCE) | Sanitized overview of selected project experience |
-| [Personal website](https://www.kunalv.me) | Professional profile and portfolio |
-| [Automation & labs](https://github.com/Kunalvishwakarma?tab=repositories) | Public technical experiments and practical examples |
-| [OT cybersecurity](https://github.com/Kunalvishwakarma?tab=repositories) | Learning notes and demonstrator projects as they are published |
+- **Infrastructure & architecture:** enterprise infrastructure, hybrid environments, platform lifecycle, resilience and operational readiness
+- **Datacenter transformation:** migration planning, consolidation, decommissioning, discovery, dependency mapping and transition
+- **Cloud:** Microsoft Azure IaaS, governance, security, migration and hybrid connectivity
+- **Networking:** LAN/WAN, routing and switching, VPN, DNS, load balancing, F5 and network services
+- **Security:** infrastructure security, segmentation, identity, endpoint protection, security governance and OT security concepts
+- **Project delivery:** technical project management, RAID, BCM/DR, stakeholder coordination, vendors, RFP and SoW
+- **Automation:** Python and PowerShell learning, repeatable operational tasks and technical tooling
 
-## Certifications and professional development
+</details>
 
-Selected credentials reported in my professional profile include Microsoft Azure Administrator Associate, Microsoft Azure Security Engineer Associate, PRINCE2 Agile, ITIL Foundation, Cisco CCNA Voice, BICSI Datacenter Design & Infrastructure, Aviatrix Multi-Cloud and Alibaba Cloud certifications. Please refer to the relevant credential issuer for verification.
+<details>
+<summary><strong>🎓 Certifications and professional development</strong></summary>
+
+Selected credentials reported in my professional profile include Microsoft Azure Administrator Associate, Microsoft Azure Security Engineer Associate, PRINCE2 Agile, ITIL Foundation, Cisco CCNA Voice, BICSI Datacenter Design & Infrastructure, Aviatrix Multi-Cloud and Alibaba Cloud certifications.
+
+Please refer to the relevant credential issuer for verification.
+
+</details>
 
 ## Featured technical artefacts
 
-- [Synthetic datacenter migration case study](https://github.com/Kunalvishwakarma/Datacenter-Transformation/blob/main/case-study/SYNTHETIC-HYBRID-DATACENTER-MIGRATION.md)
-- [Hybrid infrastructure reference architecture](https://github.com/Kunalvishwakarma/Infrastructure-Architecture/blob/main/docs/HYBRID-REFERENCE-ARCHITECTURE.md)
-- [Azure Bicep network starter](https://github.com/Kunalvishwakarma/Azure-Cloud-Labs/blob/main/bicep/network/main.bicep)
-- [Network segmentation lab](https://github.com/Kunalvishwakarma/Network-Security-Labs/tree/main/labs/01-segmentation-design)
-- [OT zones-and-conduits case study](https://github.com/Kunalvishwakarma/OT-Cybersecurity-Labs/blob/main/case-studies/SYNTHETIC-ZONES-AND-CONDUITS.md)
+- 📘 [Synthetic hybrid datacenter migration case study](https://github.com/Kunalvishwakarma/Datacenter-Transformation/blob/main/case-study/SYNTHETIC-HYBRID-DATACENTER-MIGRATION.md)
+- 🏛️ [Hybrid infrastructure reference architecture](https://github.com/Kunalvishwakarma/Infrastructure-Architecture/blob/main/docs/HYBRID-REFERENCE-ARCHITECTURE.md)
+- ⚙️ [Azure Bicep network starter](https://github.com/Kunalvishwakarma/Azure-Cloud-Labs/blob/main/bicep/network/main.bicep)
+- 🔐 [Network segmentation lab](https://github.com/Kunalvishwakarma/Network-Security-Labs/tree/main/labs/01-segmentation-design)
+- 🏭 [OT zones-and-conduits case study](https://github.com/Kunalvishwakarma/OT-Cybersecurity-Labs/blob/main/case-studies/SYNTHETIC-ZONES-AND-CONDUITS.md)
 
-These artefacts are independent portfolio material. Labs and templates should not be described as production deployments unless separately executed and validated.
+## GitHub activity
 
-## How this portfolio is organized
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kunalvishwakarma&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=60A5FA&rank_icon=github" alt="GitHub account statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalvishwakarma&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Most used public repository languages"/>
+</div>
 
-New work will be published as focused, independently understandable repositories and case studies. Each technical project should include:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalvishwakarma&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=60A5FA&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
+</div>
 
-1. Problem statement and intended learning or business outcome.
-2. Scope, assumptions and high-level architecture.
-3. Implementation steps and configuration examples using synthetic data.
-4. Security, privacy, resilience and operational considerations.
-5. Validation approach, limitations and lessons learned.
+<sub>Activity cards are generated by public third-party services and may occasionally be unavailable or rate-limited. Language statistics reflect public repositories and are not a skills assessment.</sub>
 
-## Responsible publication
+## Let's connect
 
-All public examples are sanitized and use synthetic names, addresses, IP ranges and credentials. No employer/customer confidential information, internal diagrams, production configurations, personal data, secrets or proprietary documents should be published. Project descriptions are high-level summaries of my experience and do not imply endorsement by former or current employers.
+<div align="center">
 
-## Contact
+[![Website](https://img.shields.io/badge/Website-kunalv.me-0B1220?style=flat-square&logo=googlechrome&logoColor=38BDF8)](https://www.kunalv.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Vishwakarma-0B1220?style=flat-square&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/kunalkv)
+[![GitHub](https://img.shields.io/badge/GitHub-Kunalvishwakarma-0B1220?style=flat-square&logo=github&logoColor=38BDF8)](https://github.com/Kunalvishwakarma)
 
-- Website: https://www.kunalv.me
-- LinkedIn: https://www.linkedin.com/in/kunalkv
-- GitHub: https://github.com/Kunalvishwakarma
+</div>
+
+---
+
+<sub>Responsible publication: repositories contain independent learning material, conceptual designs and synthetic examples. They do not disclose customer or employer confidential information and do not imply employer endorsement. Labs should not be described as production deployments unless separately executed and validated.</sub>
